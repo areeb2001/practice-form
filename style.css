@@ -1,0 +1,42 @@
+.center{
+    text-align: center;
+}
+.color{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: black 3px 3px 5px;
+}
+.right{
+ text-align: center;
+}
+.mid{
+    background-color: red;
+    color: white;
+    
+}
+.table2{
+    margin-right: 5000px;
+}
+table{
+    padding: 10px;
+}
+td{
+    text-align: center;
+}
+body{
+    margin: 100px;
+    line-height: 30px;
+    text-align: ;
+}
+button:active{
+    background-color: green;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+input:focus{
+    border-color: yellow;
+
+}
+
